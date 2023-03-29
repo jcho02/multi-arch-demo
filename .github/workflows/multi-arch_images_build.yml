@@ -7,7 +7,7 @@ env:
   IMAGE_NAME: test-multi-arch
   IMAGE_TAG: latest
   IMAGE_REGISTRY: quay.io
-  IMAGE_NAMESPACE: mayurwaghmode111
+  IMAGE_NAMESPACE: jcho0
 
 jobs:
   build:
