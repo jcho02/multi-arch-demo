@@ -1,5 +1,5 @@
-on: [push, pull_request]
-
+name: Build on ppc64le
+on: [push]
 jobs:
   armv7_job:
     # The host should always be Linux
